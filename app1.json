@@ -12,6 +12,9 @@
 	"MAX_BANNER":"ca-app-pub-3940256099942544/6300978111",
 
 	"RUN": true,
+
+	"COUNTER": 3,
+	"INTERVAL": 3,
 	
 	
 
